@@ -1,0 +1,4 @@
+https://www.acmicpc.net/problemset?sort=solvedac_asc&solvedac_option=xz%2Cxn&submit=fa%2Cus&tier=8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20&algo=11&algo_if=and&page=2
+
+5014 G5 JAVA https://www.acmicpc.net/problem/5014 2022-07-21
+7562 S1 JAVA https://www.acmicpc.net/problem/7562 2022-07-21

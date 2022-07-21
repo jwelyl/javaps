@@ -3,3 +3,5 @@ K_LEVEL_3_23*.cpp
 K_LEVEL_3_23.java
 *.out
 *.exe
+.metadata
+.vscode
