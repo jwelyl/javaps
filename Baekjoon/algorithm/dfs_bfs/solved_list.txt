@@ -3,3 +3,4 @@ https://www.acmicpc.net/problemset?sort=solvedac_asc&solvedac_option=xz%2Cxn&sub
 5014 G5 JAVA https://www.acmicpc.net/problem/5014 2022-07-21
 7562 S1 JAVA https://www.acmicpc.net/problem/7562 2022-07-21
 2644 S2 JAVA https://www.acmicpc.net/problem/2644 2022-07-22
+16505 S3 JAVA https://www.acmicpc.net/problem/16505 2022-07-22
