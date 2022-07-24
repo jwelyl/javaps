@@ -1,6 +1,6 @@
 https://www.acmicpc.net/workbook/view/20
 
-10993 G4 JAVA https://www.acmicpc.net/problem/10993
-10994 S4 JAVA https://www.acmicpc.net/problem/10994
-10997 S2 JAVA https://www.acmicpc.net/problem/10997
-13015 S5 JAVA https://www.acmicpc.net/problem/13015
+10993 G4 JAVA https://www.acmicpc.net/problem/10993 2022-07-24
+10994 S4 JAVA https://www.acmicpc.net/problem/10994 2022-07-24
+10997 S2 JAVA https://www.acmicpc.net/problem/10997 2022-07-24
+13015 S5 JAVA https://www.acmicpc.net/problem/13015 2022-07-24
