@@ -1,3 +1,4 @@
 https://www.acmicpc.net/problemset?sort=ac_desc&algo=124
 
 1978 S5 JAVA https://www.acmicpc.net/problem/1978 2022-07-27
+2609 B1 JAVA https://www.acmicpc.net/problem/2609 2022-07-30
