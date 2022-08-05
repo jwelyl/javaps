@@ -12,3 +12,5 @@ https://www.acmicpc.net/problemset?sort=solvedac_asc&solvedac_option=xz%2Cxn&tie
 17478 S5 JAVA https://www.acmicpc.net/problem/17478 2022-08-01
 7568 G5 JAVA https://www.acmicpc.net/problem/7569 2022-08-03
 15681 G5 JAVA https://www.acmicpc.net/problem/15681 2022-08-03
+2023 G5 JAVA https://www.acmicpc.net/problem/2023 2022-08-05
+1987 G4 JAVA https://www.acmicpc.net/problem/1987 2022-08-05
