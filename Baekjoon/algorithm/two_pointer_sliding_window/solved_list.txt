@@ -2,3 +2,5 @@ https://www.acmicpc.net/problemset?sort=ac_desc&algo=80
 https://www.acmicpc.net/problemset?sort=ac_desc&algo=68
 
 12891 S2 JAVA https://www.acmicpc.net/problem/12891 2022-08-05
+2467 G5 JAVA https://www.acmicpc.net/problem/2467 2022-08-06
+2470 G5 JAVA https://www.acmicpc.net/problem/2470 2022-08-06

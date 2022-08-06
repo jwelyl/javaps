@@ -4,3 +4,6 @@
 2023 G5 JAVA https://www.acmicpc.net/problem/2023 2022-08-05
 2623 G3 JAVA https://www.acmicpc.net/problem/2623 2022-08-05
 12891 S2 JAVA https://www.acmicpc.net/problem/12891 2022-08-05
+12891 S2 JAVA https://www.acmicpc.net/problem/12891 2022-08-05
+2470 G5 JAVA https://www.acmicpc.net/problem/2470 2022-08-06
+9466 G3 JAVA https://www.acmicpc.net/problem/9466 2022-08-07
