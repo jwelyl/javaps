@@ -7,3 +7,6 @@
 12891 S2 JAVA https://www.acmicpc.net/problem/12891 2022-08-05
 2470 G5 JAVA https://www.acmicpc.net/problem/2470 2022-08-06
 9466 G3 JAVA https://www.acmicpc.net/problem/9466 2022-08-07
+7579 G3 JAVA https://www.acmicpc.net/problem/7579 2022-08-08
+2473 G3 JAVA https://www.acmicpc.net/problem/2473 2022-08-08
+9205 S1 JAVA https://www.acmicpc.net/problem/9205 2022-08-08

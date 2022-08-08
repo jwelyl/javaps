@@ -16,3 +16,5 @@ https://www.acmicpc.net/problemset?sort=solvedac_asc&solvedac_option=xz%2Cxn&tie
 1987 G4 JAVA https://www.acmicpc.net/problem/1987 2022-08-05
 2206 G4 JAVA https://www.acmicpc.net/problem/2206 2022-08-06
 9466 G3 JAVA https://www.acmicpc.net/problem/9466 2022-08-07
+2468 S1 JAVA https://www.acmicpc.net/problem/2468 2022-08-08
+9205 S1 JAVA https://www.acmicpc.net/problem/9205 2022-08-08
