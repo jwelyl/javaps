@@ -5,6 +5,21 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+
+/**
+ * 
+ * @author koreii
+ * @see https://www.acmicpc.net/problem/2206
+ * @difficuly G4
+ * @performance 134572KB   424ms
+ * @category # 격자 그래프 탐색(BFS), 다차원 방문 배열
+ * @memo 어떤 한 정점을 방문하는 경우가 벽을 부수지 않고 방문하는 경우와, 벽을 부수고 방문하는 경우가 있음
+ * @memo 이를 위해 벽을 부수지 않았을 때 방문처리와 부수고 방문했을 때 방문처리를 위한 차원이 하나 더 필요함
+ * @memo 차원이 추가된만큼 BFS의 Queue에 삽입될 Node에도 벽 부순 개수를 나타낼 정보가 추가되어야 함.
+ * @etc  다차원 배열로 방문처리하는 것을 연습하기 좋은 문제.
+ *  
+ */
+
 public class BOJ_2206 {
 	static int N, M, ans = Integer.MAX_VALUE;
 	static BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));

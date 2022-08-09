@@ -5,6 +5,19 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
+/**
+ * 
+ * @author koreii
+ * @see https://www.acmicpc.net/problem/4803
+ * @difficuly G4
+ * @performance 62696KB   436ms
+ * @category # 깊이우선탐색(DFS), 트리(Tree), 사이클 판별(Cycle)
+ * @memo DFS 과정에서 부모 노드를 제외한 노드를 재방문하려 하면 Cycle로 판별했음
+ * @memo 사이클 유무로 트리 판별, 연결 요소(Connected Component), 포레스트(Forest)를 알아야 함
+ * @etc  
+ *  
+ */
+
 public class Main {
 	static int N, M;
 	static BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
