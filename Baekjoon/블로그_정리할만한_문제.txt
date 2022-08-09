@@ -10,3 +10,11 @@
 7579 G3 JAVA https://www.acmicpc.net/problem/7579 2022-08-08
 2473 G3 JAVA https://www.acmicpc.net/problem/2473 2022-08-08
 9205 S1 JAVA https://www.acmicpc.net/problem/9205 2022-08-08
+
+# segment tree
+2402 G1 JAVA https://www.acmicpc.net/problem/2402 2022-08-09
+11505 G1 JAVA https://www.acmicpc.net/problem/11505 2022-08-09
+
+# study
+4803 G4 JAVA https://www.acmicpc.net/problem/4803 2022-07-30
+2206 G4 JAVA https://www.acmicpc.net/problem/2206 2022-08-06

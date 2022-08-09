@@ -1,3 +1,4 @@
 https://www.acmicpc.net/problemset?sort=ac_desc&algo=125
 
 1018 S4 JAVA https://www.acmicpc.net/problem/1018 2022-07-24
+2961 S2 JAVA https://www.acmicpc.net/problem/2961 2022-08-08
