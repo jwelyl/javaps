@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class BOJ_10993 {
+public class Q10993 {
 	static int N, H = 1, W = 1, midH, midW;
 	static char[][] stars;
 	static Scanner sc = new Scanner(System.in);

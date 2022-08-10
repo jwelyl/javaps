@@ -2,3 +2,4 @@ https://www.acmicpc.net/problemset?sort=ac_desc&algo=97&algo_if=and&page=1
 
 11651 S5 JAVA https://www.acmicpc.net/problem/11651 2022-07-24
 10814 S5 JAVA https://www.acmicpc.net/problem/10814 2022-07-27
+10989 B1 JAVA https://www.acmicpc.net/problem/10989 2022-08-10

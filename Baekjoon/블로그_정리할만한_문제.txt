@@ -1,20 +1,36 @@
-15662 G5 JAVA https://www.acmicpc.net/problem/15662 2022-08-02
-7662 G4 JAVA https://www.acmicpc.net/problem/7662 2022-07-30
-11812 G3 JAVA https://www.acmicpc.net/problem/11812 2022-08-04
+# study
+4803 G4 JAVA https://www.acmicpc.net/problem/4803 2022-07-30
+2206 G4 JAVA https://www.acmicpc.net/problem/2206 2022-08-06
+
+# 문제 똑바로 안읽어서 털린 문제들 + 시공간복잡도, 오개념 등등
 2023 G5 JAVA https://www.acmicpc.net/problem/2023 2022-08-05
 2623 G3 JAVA https://www.acmicpc.net/problem/2623 2022-08-05
 12891 S2 JAVA https://www.acmicpc.net/problem/12891 2022-08-05
-12891 S2 JAVA https://www.acmicpc.net/problem/12891 2022-08-05
+10989 B1 JAVA https://www.acmicpc.net/problem/10989 2022-08-10
+1010 S5 JAVA https://www.acmicpc.net/problem/1010 2022-08-10
+1654 S2 JAVA https://www.acmicpc.net/problem/1654 2022-08-10
+
+# 이분탐색, 투포인터 문제들(테크닉)
 2470 G5 JAVA https://www.acmicpc.net/problem/2470 2022-08-06
+2473 G3 JAVA https://www.acmicpc.net/problem/2473 2022-08-08
+1654 S2 JAVA https://www.acmicpc.net/problem/1654 2022-08-10
+
+# 새로 알았거나 예전에 배웠다가 다시 복습한 지식들
 9466 G3 JAVA https://www.acmicpc.net/problem/9466 2022-08-07
 7579 G3 JAVA https://www.acmicpc.net/problem/7579 2022-08-08
-2473 G3 JAVA https://www.acmicpc.net/problem/2473 2022-08-08
+
+# 생소하거나 난해한 자료구조 문제들
+7662 G4 JAVA https://www.acmicpc.net/problem/7662 2022-07-30
+11812 G3 JAVA https://www.acmicpc.net/problem/11812 2022-08-04
+
+# DFS/BFS 방법론
 9205 S1 JAVA https://www.acmicpc.net/problem/9205 2022-08-08
+12851 G4 JAVA https://www.acmicpc.net/problem/12851 2022-08-09
 
 # segment tree
 2402 G1 JAVA https://www.acmicpc.net/problem/2402 2022-08-09
 11505 G1 JAVA https://www.acmicpc.net/problem/11505 2022-08-09
 
-# study
-4803 G4 JAVA https://www.acmicpc.net/problem/4803 2022-07-30
-2206 G4 JAVA https://www.acmicpc.net/problem/2206 2022-08-06
+# 단순 구현 문제
+15662 G5 JAVA https://www.acmicpc.net/problem/15662 2022-08-02
+16935 S1 JAVA https://www.acmicpc.net/problem/16935 2022-08-10 (참조변수)
