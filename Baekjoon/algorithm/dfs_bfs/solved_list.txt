@@ -24,3 +24,4 @@ https://www.acmicpc.net/problemset?sort=solvedac_asc&solvedac_option=xz%2Cxn&tie
 11725 S2 JAVA https://www.acmicpc.net/problem/11725 2022-08-10
 1926 S1 JAVA https://www.acmicpc.net/problem/1926 2022-08-12
 6593 G5 JAVA https://www.acmicpc.net/problem/6593 2022-08-12
+17090 G3 JAVA https://www.acmicpc.net/problem/17090 2022-08-12
