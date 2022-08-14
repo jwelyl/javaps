@@ -9,6 +9,7 @@
 10989 B1 JAVA https://www.acmicpc.net/problem/10989 2022-08-10
 1010 S5 JAVA https://www.acmicpc.net/problem/1010 2022-08-10
 1654 S2 JAVA https://www.acmicpc.net/problem/1654 2022-08-10
+17142 G4 JAVA https://www.acmicpc.net/problem/17142 2022-08-15
 
 # 이분탐색, 투포인터 문제들(테크닉)
 2470 G5 JAVA https://www.acmicpc.net/problem/2470 2022-08-06
@@ -16,7 +17,10 @@
 1654 S2 JAVA https://www.acmicpc.net/problem/1654 2022-08-10
 
 # 새로 알았거나 예전에 배웠다가 다시 복습한 지식들
+## DFS Cycle
 9466 G3 JAVA https://www.acmicpc.net/problem/9466 2022-08-07
+16724 G3 JAVA https://www.acmicpc.net/problem/16724 2022-08-14
+## Knapsack
 7579 G3 JAVA https://www.acmicpc.net/problem/7579 2022-08-08
 
 # 생소하거나 난해한 자료구조 문제들
