@@ -1,3 +1,5 @@
 https://www.acmicpc.net/problemset?sort=solvedac_asc&solvedac_option=xz%2Cxn&tier=6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15&algo=33&algo_if=and
 
-1789 S5 JAVA https://www.acmicpc.net/problem/1789
+1789 S5 JAVA https://www.acmicpc.net/problem/1789 2022-07-21
+2839 S4 JAVA https://www.acmicpc.net/problem/2839 2022-08-16
+1931 S1 JAVA https://www.acmicpc.net/problem/1931 2022-08-16

@@ -5,3 +5,4 @@ https://www.acmicpc.net/problemset?sort=ac_desc&algo=175
 7662 G4 JAVA https://www.acmicpc.net/problem/7662 2022-07-30
 11812 G3 JAVA https://www.acmicpc.net/problem/11812 2022-08-04
 1158 S5 JAVA https://www.acmicpc.net/problem/1158 2022-08-08
+1966 S3 JAVA https://www.acmicpc.net/problem/1966 2022-08-16
