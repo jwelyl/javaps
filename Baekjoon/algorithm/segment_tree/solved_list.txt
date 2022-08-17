@@ -9,3 +9,4 @@ https://www.acmicpc.net/problemset?sort=ac_desc&algo=65
 14428 G1 JAVA https://www.acmicpc.net/problem/14428 2022-08-15
 14438 G1 JAVA https://www.acmicpc.net/problem/14438 2022-08-16
 18436 G1 JAVA https://www.acmicpc.net/problem/18436 2022-08-16
+5676 G1 JAVA https://www.acmicpc.net/problem/5676 2022-08-17

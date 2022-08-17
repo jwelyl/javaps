@@ -29,3 +29,4 @@ https://www.acmicpc.net/problemset?sort=solvedac_asc&solvedac_option=xz%2Cxn&tie
 17141 G4 JAVA https://www.acmicpc.net/problem/17141 2022-08-15
 17142 G4 JAVA https://www.acmicpc.net/problem/17142 2022-08-15
 16197 G4 JAVA https://www.acmicpc.net/problem/16197 2022-08-15
+3055 G4 JAVA https://www.acmicpc.net/problem/3055 2022-08-16
