@@ -2,3 +2,5 @@ https://www.acmicpc.net/problemset?sort=solvedac_asc&solvedac_option=xz%2Cxn&alg
 
 2458 G4 JAVA https://www.acmicpc.net/problem/2458 2022-07-21
 2657 G4 JAVA https://www.acmicpc.net/problem/2657 2022-08-17
+10159 G3 JAVA https://www.acmicpc.net/problem/10159 2022-08-19
+1613 G3 JAVA https://www.acmicpc.net/problem/1613 2022-08-19

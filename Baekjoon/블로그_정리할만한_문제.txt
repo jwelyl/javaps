@@ -10,6 +10,7 @@
 1010 S5 JAVA https://www.acmicpc.net/problem/1010 2022-08-10
 1654 S2 JAVA https://www.acmicpc.net/problem/1654 2022-08-10
 17142 G4 JAVA https://www.acmicpc.net/problem/17142 2022-08-15
+24483 S2 JAVA https://www.acmicpc.net/problem/24483 2022-08-18
 
 # 이분탐색, 투포인터 문제들(테크닉)
 2470 G5 JAVA https://www.acmicpc.net/problem/2470 2022-08-06
@@ -42,3 +43,9 @@
 # 단순 구현 문제
 15662 G5 JAVA https://www.acmicpc.net/problem/15662 2022-08-02
 16935 S1 JAVA https://www.acmicpc.net/problem/16935 2022-08-10 (참조변수)
+
+# 그냥 도움 받은 문제(직접 해결 x)
+7662 G4 JAVA https://www.acmicpc.net/problem/7662 2022-07-30
+11812 G3 JAVA https://www.acmicpc.net/problem/11812 2022-08-04
+1541 S2 https://www.acmicpc.net/problem/1541 2022-08-17
+3109 G2 JAVA https://www.acmicpc.net/problem/3109 2022-08-18

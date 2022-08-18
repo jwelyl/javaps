@@ -2,3 +2,4 @@ https://www.acmicpc.net/problemset?sort=ac_desc&algo=78
 
 2623 G3 JAVA https://www.acmicpc.net/problem/2623 2022-08-05
 2252 G3 JAVA https://www.acmicpc.net/problem/2252 2022-08-16
+1516 G3 JAVA https://www.acmicpc.net/problem/1516 2022-08-19

@@ -16,7 +16,7 @@ import java.util.StringTokenizer;
  *  
  */
 
-public class Q1987 {
+public class BOJ_1987 {
 
 	static int R, C, ans = 0;
 	static char[][] field;
