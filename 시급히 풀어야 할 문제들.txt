@@ -14,8 +14,11 @@
 무선충전 ?? https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYHg4cRqHpADFAV6&contestProbId=AWXRDL1aeugDFAUo&probBoxId=AYKpBZvac3IDFAVG&type=PROBLEM&problemBoxTitle=8%EC%9B%94+3%EC%A3%BC&problemBoxCnt=3 (해결했지만 꽤나 어려웠으니 다시 한번 차근차근 풀어보기)
 배열돌리기 https://www.acmicpc.net/workbook/view/12468 (배열 돌리기 4번은 특히 강추)
 
-# Recursion 
+# Recursio+DNC
 준환이의_양팔저울 D4 https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYHg4cRqHpADFAV6&contestProbId=AWAe7XSKfUUDFAUw&probBoxId=AYKpBZvac3IDFAVG&type=PROBLEM&problemBoxTitle=8%EC%9B%94+3%EC%A3%BC&problemBoxCnt=3 (미해결 과제, 천천히 다시 풀어보기)
+쿼드트리 1992 S1 https://www.acmicpc.net/problem/1992
+색종이_만들기 2630 S2 https://www.acmicpc.net/problem/2630
+Z 1074 S1 https://www.acmicpc.net/problem/1074
 
 # Implementation+Bruteforce
 감시 15683 G4 JAVA https://www.acmicpc.net/problem/15683 2022-08-17 (해결했지만 상당한 피지컬이 필요했음)
