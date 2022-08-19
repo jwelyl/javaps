@@ -14,19 +14,6 @@ public class DeepCopyArray {
         
         for(int i = 0; i < 10; i++)
             arr1[i] = i;
-        arr2 = arr1;    //  shallow copy
-
-        System.out.println("Shallow copy");
-        printArray(arr1);
-        printArray(arr2);
-    
-        for(int i = 0; i < 10; i++)
-            if(i % 2 == 0)
-                arr2[i] = 2 * i;
-
-        System.out.println("Shallow copy modification");
-        printArray(arr1);
-        printArray(arr2);
 
         System.out.println("Deep copy");
         // arr3 = arr1.clone();

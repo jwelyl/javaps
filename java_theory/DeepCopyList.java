@@ -28,7 +28,7 @@ public class DeepCopyList {
         printList(l2);
       
         System.out.println("Deep copy");
-        l3.addAll(l1);
+        l3.addAll(l1);  //  deep copy
 
         printList(l1);
         printList(l3);
