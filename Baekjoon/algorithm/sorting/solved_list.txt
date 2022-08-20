@@ -5,3 +5,4 @@ https://www.acmicpc.net/problemset?sort=ac_desc&algo=97&algo_if=and&page=1
 10989 B1 JAVA https://www.acmicpc.net/problem/10989 2022-08-10
 1431 S3 JAVA https://www.acmicpc.net/problem/1431 2022-08-12
 2108 S3 JAVA https://www.acmicpc.net/problem/2108 2022-08-16
+18870 S2 JAVA https://www.acmicpc.net/problem/18870 2022-08-20

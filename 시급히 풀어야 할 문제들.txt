@@ -7,27 +7,27 @@
 거리두기 확인하기 https://school.programmers.co.kr/learn/courses/30/lessons/81302
 
 # DFS+Backtracking 
-알파벳 1987 G4 JAVA https://www.acmicpc.net/problem/1987 2022-08-05 (쉽게 풀었지만 그래도 다시 한 번 풀어보기)
+알파벳 1987 G4 JAVA https://www.acmicpc.net/problem/1987 2022-08-05 (다시 한 번 풀어보기)
 가장 가까운 공통조상 3584 G4 JAVA https://www.acmicpc.net/problem/3584
 
 # DFS+Greedy 
 빵집 3109 G2 JAVA https://www.acmicpc.net/problem/3109 2022-08-18 (방법은 알았지만 다시 복습해보기)
 
 # Implementation 
-무선충전 ?? https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYHg4cRqHpADFAV6&contestProbId=AWXRDL1aeugDFAUo&probBoxId=AYKpBZvac3IDFAVG&type=PROBLEM&problemBoxTitle=8%EC%9B%94+3%EC%A3%BC&problemBoxCnt=3 (해결했지만 꽤나 어려웠으니 다시 한번 차근차근 풀어보기)
+무선충전 https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYHg4cRqHpADFAV6&contestProbId=AWXRDL1aeugDFAUo&probBoxId=AYKpBZvac3IDFAVG&type=PROBLEM&problemBoxTitle=8%EC%9B%94+3%EC%A3%BC&problemBoxCnt=3 (다시 한번 차근차근 풀어보기)
 배열돌리기 https://www.acmicpc.net/workbook/view/12468 (배열 돌리기 4번은 특히 강추) (삼성 기출문제)
 
 # Recursion+DNC
-준환이의_양팔저울 D4 https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYHg4cRqHpADFAV6&contestProbId=AWAe7XSKfUUDFAUw&probBoxId=AYKpBZvac3IDFAVG&type=PROBLEM&problemBoxTitle=8%EC%9B%94+3%EC%A3%BC&problemBoxCnt=3 (미해결 과제, 천천히 다시 풀어보기)
+준환이의_양팔저울 D4 https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AYHg4cRqHpADFAV6&contestProbId=AWAe7XSKfUUDFAUw&probBoxId=AYKpBZvac3IDFAVG&type=PROBLEM&problemBoxTitle=8%EC%9B%94+3%EC%A3%BC&problemBoxCnt=3 (재귀함수를 잘 작성해보기, 천천히 다시 풀어보기)
 쿼드트리 1992 S1 https://www.acmicpc.net/problem/1992
 색종이_만들기 2630 S2 https://www.acmicpc.net/problem/2630
 Z 1074 S1 https://www.acmicpc.net/problem/1074
 
 # Implementation+Bruteforce
-감시 15683 G4 JAVA https://www.acmicpc.net/problem/15683 2022-08-17 (해결했지만 상당한 피지컬이 필요했음) (삼성 기출문제)
+감시 15683 G4 JAVA https://www.acmicpc.net/problem/15683 2022-08-17 (상당한 피지컬이 필요한 과제) (삼성 기출문제)
 캐슬_디펜스 17135 G3 JAVA https://www.acmicpc.net/problem/17135 2022-08-19 (미해결 과제, 머리 좀 식히고 빠뜨리는 것 없이 천천히 다시 풀어보기)
 
-# 월말평가 대비(이 정돈 풀어야 과락은 면할듯)
+# 월말평가 대비(이 정도 풀수 있으면 과락은 안할것 같다.)
 # BFS+Implementation+Bruteforce
 아기상어 16236 G3 JAVA https://www.acmicpc.net/problem/16236 (삼성 기출문제)
 

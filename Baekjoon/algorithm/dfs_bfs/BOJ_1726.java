@@ -182,6 +182,4 @@ public class BOJ_1726 {
 		}	//	while-end
 	}	//	bfs-end
 }
- BOJ_1726 {
-    
-}
+
