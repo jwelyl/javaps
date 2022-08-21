@@ -12,6 +12,7 @@
 17142 G4 JAVA https://www.acmicpc.net/problem/17142 2022-08-15
 24483 S2 JAVA https://www.acmicpc.net/problem/24483 2022-08-18
 18111 S1 JAVA https://www.acmicpc.net/problem/18111 2022-08-20
+20529 S1 JAVA https://www.acmicpc.net/problem/20529 2022-08-21 + 비둘기집의 원리
 
 # 이분탐색, 투포인터 문제들(테크닉)
 2470 G5 JAVA https://www.acmicpc.net/problem/2470 2022-08-06
@@ -32,6 +33,8 @@
 # 생소하거나 난해한 자료구조 문제들
 7662 G4 JAVA https://www.acmicpc.net/problem/7662 2022-07-30
 11812 G3 JAVA https://www.acmicpc.net/problem/11812 2022-08-04
+## HashSet vs LinkedHashSet vs TreeSet
+15663 S2 JAVA https://www.acmicpc.net/problem/15663 2022-08-21
 
 # DFS/BFS 방법론
 9205 S1 JAVA https://www.acmicpc.net/problem/9205 2022-08-08

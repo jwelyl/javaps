@@ -44,3 +44,6 @@ https://www.acmicpc.net/problemset?sort=solvedac_asc&solvedac_option=xz%2Cxn&tie
 3109 G2 JAVA https://www.acmicpc.net/problem/3109 2022-08-18
 6118 S1 JAVA https://www.acmicpc.net/problem/6118 2022-08-20
 1963 G4 JAVA https://www.acmicpc.net/problem/1963 2022-08-20
+2589 G5 JAVA https://www.acmicpc.net/problem/2589 2022-08-21
+16953 S2 JAVA https://www.acmicpc.net/problem/16953 2022-08-21
+16928 G5 JAVA https://www.acmicpc.net/problem/16928 2022-08-21

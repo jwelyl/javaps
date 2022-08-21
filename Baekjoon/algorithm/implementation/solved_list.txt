@@ -14,3 +14,4 @@ https://www.acmicpc.net/problemset?sort=ac_desc&algo=102
 1913 S3 JAVA https://www.acmicpc.net/problem/1913 2022-08-16
 15683 G4 JAVA https://www.acmicpc.net/problem/15683 2022-08-16
 18111 S1 JAVA https://www.acmicpc.net/problem/18111 2022-08-20
+1748 S4 JAVA https://www.acmicpc.net/problem/1748 2022-08-21
