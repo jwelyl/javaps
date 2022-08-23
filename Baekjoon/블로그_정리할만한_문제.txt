@@ -39,6 +39,7 @@
 # DFS/BFS 방법론
 9205 S1 JAVA https://www.acmicpc.net/problem/9205 2022-08-08
 12851 G4 JAVA https://www.acmicpc.net/problem/12851 2022-08-09
+13023 G5 JAVA https://www.acmicpc.net/problem/13023 2022-08-23
 
 # segment tree
 2402 G1 JAVA https://www.acmicpc.net/problem/2402 2022-08-09
