@@ -35,13 +35,14 @@
 11812 G3 JAVA https://www.acmicpc.net/problem/11812 2022-08-04
 ## HashSet vs LinkedHashSet vs TreeSet
 15663 S2 JAVA https://www.acmicpc.net/problem/15663 2022-08-21
+15664 S2 JAVA https://www.acmicpc.net/problem/15664 2022-08-21
 
 # DFS/BFS 방법론
 9205 S1 JAVA https://www.acmicpc.net/problem/9205 2022-08-08
 12851 G4 JAVA https://www.acmicpc.net/problem/12851 2022-08-09
 
 # segment tree
-2402 G1 JAVA https://www.acmicpc.net/problem/2402 2022-08-09
+2042 G1 JAVA https://www.acmicpc.net/problem/2042 2022-08-09
 11505 G1 JAVA https://www.acmicpc.net/problem/11505 2022-08-09
 
 # 단순 구현 문제
