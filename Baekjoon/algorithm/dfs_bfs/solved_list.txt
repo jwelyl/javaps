@@ -47,3 +47,4 @@ https://www.acmicpc.net/problemset?sort=solvedac_asc&solvedac_option=xz%2Cxn&tie
 2589 G5 JAVA https://www.acmicpc.net/problem/2589 2022-08-21
 16953 S2 JAVA https://www.acmicpc.net/problem/16953 2022-08-21
 16928 G5 JAVA https://www.acmicpc.net/problem/16928 2022-08-21
+13023 G5 JAVA https://www.acmicpc.net/problem/13023 2022-08-23
