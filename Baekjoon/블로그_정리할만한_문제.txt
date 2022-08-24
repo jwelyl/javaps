@@ -13,6 +13,13 @@
 24483 S2 JAVA https://www.acmicpc.net/problem/24483 2022-08-18
 18111 S1 JAVA https://www.acmicpc.net/problem/18111 2022-08-20
 20529 S1 JAVA https://www.acmicpc.net/problem/20529 2022-08-21 + 비둘기집의 원리
+16236 G3 JAVA https://www.acmicpc.net/problem/16236 2022-08-24 (아기 상어, 풀어본 문제라고 깝치다가 개털림 ㅠㅠ. 매 물고기마다 bfs해서 터짐. 정렬이 유용할지 고려해볼 것)
+
+# 시뮬레이션 문제들
+객체(Actor)들을 클래스로 만들기(프로그래밍하기 쉬워짐) + toString() 구현하기(Debugging)
+아기 상어, 캐슬 디펜스 문제를 진짜 제대로, 문제를 '정독'해서 풀어보기. 
+주어진 예제 테스트케이스 중 적당히 큰(손으로 써볼만한) 케이스를 골라서 문제에 따라 시뮬레이션 해보고 코딩 시작하기
+최대한 직관적이면서도 간단한 변수명 사용하기
 
 # 이분탐색, 투포인터 문제들(테크닉)
 2470 G5 JAVA https://www.acmicpc.net/problem/2470 2022-08-06
