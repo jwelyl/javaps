@@ -50,3 +50,4 @@ https://www.acmicpc.net/problemset?sort=solvedac_asc&solvedac_option=xz%2Cxn&tie
 13023 G5 JAVA https://www.acmicpc.net/problem/13023 2022-08-23
 7576 G5 JAVA https://www.acmicpc.net/problem/7576 2022-08-24
 10026 G5 JAVA https://www.acmicpc.net/problem/10026 2022-08-24
+14940 S1 JAVA https://www.acmicpc.net/problem/14940 2022-08-26

@@ -7,3 +7,4 @@ https://www.acmicpc.net/problemset?sort=ac_desc&algo=5
 15663 S2 JAVA https://www.acmicpc.net/problem/15663 2022-08-21
 15664 S2 JAVA https://www.acmicpc.net/problem/15664 2022-08-21
 1759 G5 JAVA https://www.acmicpc.net/problem/1759 2022-08-22
+15658 S1 JAVA https://www.acmicpc.net/problem/15658 2022-08-26
